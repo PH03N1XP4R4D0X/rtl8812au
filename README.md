@@ -1,5 +1,5 @@
 ## RTL8812AU/21AU Wireless drivers
-Only for use with Linux & Android
+Only for use with Raspberry Pi based oses
 
 [![Monitor mode](https://img.shields.io/badge/monitor%20mode-working-brightgreen.svg)](#)
 [![Frame Injection](https://img.shields.io/badge/frame%20injection-working-brightgreen.svg)](#)
